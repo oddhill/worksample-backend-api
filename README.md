@@ -1,11 +1,13 @@
-# PHP API Work Sample
+# Backend API Work Sample
 
 This repository contains everything you will need to create your work sample
-when applying as a backend developer at Odd Hill with a focus on PHP and APIs.
+when applying as a backend developer at Odd Hill.
+
+The work sample will focus on building an API with PHP or Node.js.
 
 ## The API
 
-The API you will be building will be exposing data about books the authors
+The API you will be building will be exposing data about books, the authors
 of these books and the genres of the books.
 
 ### It should be possible to get data from the API in the following ways
@@ -22,15 +24,19 @@ of these books and the genres of the books.
 
 ## Expectations
 
-We expect you to build an API in your PHP framework of choice. You are free to
-use an API specification you feel comfortable working with but an API built on
-a REST specification or GraphQL is preferred.
+We expect you to build an API in your framework or collection of packages of
+choice. You are free to use an API specification you feel comfortable working
+with but an API built on a REST specification or GraphQL is preferred.
 
 The finished work sample should have a readme describing how to get the API up
 and running.
 
 We expect you to host the code as a repository on Github or GitLab under your
 own profile.
+
+If you choose to develop the API in PHP we expect you to use one of the popular
+frameworks available and not just a selection of packages. If you decide to
+build the API on Node.js a framework is not required but is a valid option.
 
 ## Data source
 
@@ -68,11 +74,15 @@ https://openlibrary.org/developers/api
 Build a basic administrative interface protected by authentication where
 admins can manage the library of books.
 
-The administrative interface would preferably be built with PHP and a
-templating language of choice.
+The administrative interface would preferably also be built with either PHP or
+Node.js based on the language you choose to work with and a template engine of
+your choice.
+
+You are not expected to build a frontend based on any JavaScript framework
+since this work sample is focused on backend development.
 
 You will not be required to wite your own css. A frontend framework like
-Boostrap is perfectly acceptable.
+Bootstrap is perfectly acceptable.
 
 ### As a administrator you should be able to do the following
 

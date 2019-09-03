@@ -5,8 +5,8 @@ when applying as a backend developer at Odd Hill with a focus on PHP and APIs.
 
 ## The API
 
-The API you will be building will be exposing data about books and the authors
-of these books.
+The API you will be building will be exposing data about books the authors
+of these books and the genres of the books.
 
 ### It should be possible to get data from the API in the following ways
 

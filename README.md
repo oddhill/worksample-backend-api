@@ -29,8 +29,8 @@ a REST specification or GraphQL is preferred.
 The finished work sample should have a readme describing how to get the API up
 and running.
 
-We expect you to host the code as a repository on Github under your own
-profile.
+We expect you to host the code as a repository on Github or GitLab under your
+own profile.
 
 ## Data source
 

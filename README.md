@@ -55,10 +55,32 @@ we review the base work sample.
 Integrate with external APIs to fetch additional data like the cover image,
 reviews and more. Good APIs to integrate with could be one of the following.
 
+#### Google Books
+
 https://developers.google.com/books/
+
+#### Open Library
+
 https://openlibrary.org/developers/api
 
-## Have fun
+## If you have even more time
+
+Build a basic administrative interface protected by authentication where
+admins can manage the library of books.
+
+The administrative interface would preferably be built with PHP and a
+templating language of choice.
+
+You will not be required to wite your own css. A frontend framework like
+Boostrap is perfectly acceptable.
+
+### As a administrator you should be able to do the following
+
+- Create, edit and delete books.
+- Create, edit and delete authors.
+- Create, edit and delete genres.
+
+## Remember to have fun!
 
 This work sample is not about pointing fingers if something is off. We want to
 see how you think and how you adapt requirements into code.

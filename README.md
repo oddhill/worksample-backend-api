@@ -28,6 +28,9 @@ We expect you to build an API in your framework or collection of packages of
 choice. You are free to use an API specification you feel comfortable working
 with but an API built on a REST specification or GraphQL is preferred.
 
+The API should be built in a way that seperate responsibilities e.g. a
+controller should not fetch data from the database.
+
 The finished work sample should have a readme describing how to get the API up
 and running.
 
